@@ -1,3 +1,7 @@
+# Intro / note to self
+
+This dataset was linked to in the blog post for the PLATO model, available at https://deepmind.google/discover/blog/intuitive-physics-learning-in-a-deep-learning-model-inspired-by-developmental-psychology/ : "This synthetic video dataset ports the VoE paradigm to assess five physical concepts: solidity, object persistence, continuity, “unchangeableness'', and directional inertia."
+
 # Physical Concepts Dataset
 <img src="./images/freeform_examples.png" width="50%">
 
